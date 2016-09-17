@@ -58,14 +58,6 @@
       </LineStyle>
     </Style>
 
-    <Placemark>
-      <name>Blue Line</name>
-      <styleUrl>#blueLine</styleUrl>
-      <LineString>
-        <altitudeMode>relative</altitudeMode>
-<coordinates>-93.99984822493802,40.74342503708754 -73.999732111430603,40.743376139356009 -73.999024292764233,40.743078049761699 -73.997293447490932,40.74234886364404 -73.997106395671494,40.74227001070755 -73.99700718107502,40.742228188628829</coordinates>
-      </LineString>
-    </Placemark>
 
     
   </Document>
