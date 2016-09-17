@@ -62,10 +62,28 @@
       <name>Blue Line</name>
       <styleUrl>#greenLine</styleUrl>
       <LineString>
+        <altitudeMode>relative</altitudeMode>
         <coordinates>
 -73.980409969122874,40.742587187451676 -73.980447966288608,40.74253502754128 -73.980479235736468,40.742492087669085 -73.980799745231593,40.742052027766263 -73.980820958407804,40.742022890893978 -73.980859641899627,40.741969785425653        </coordinates>
       </LineString>
     </Placemark>
+  <Placemark>
+	<name>W 20 ST</name>
+	<Style><LineStyle><color>ff0000ff</color><width>4</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#nyc_roads">
+		<SimpleData name="modified">5/28/2001</SimpleData>
+		<SimpleData name="vsam">14860</SimpleData>
+		<SimpleData name="sourcedate">3/31/1996</SimpleData>
+		<SimpleData name="sourcetype">Photogrammetric</SimpleData>
+		<SimpleData name="source_id">51509</SimpleData>
+		<SimpleData name="borough">Manhattan</SimpleData>
+		<SimpleData name="feat_code">2900</SimpleData>
+		<SimpleData name="feat_desc">Paved Road</SimpleData>
+		<SimpleData name="exported">05/19/2004</SimpleData>
+		<SimpleData name="feat_type">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>-73.99984822493802,40.74342503708754 -73.999732111430603,40.743376139356009 -73.999024292764233,40.743078049761699 -73.997293447490932,40.74234886364404 -73.997106395671494,40.74227001070755 -73.99700718107502,40.742228188628829</coordinates></LineString>
+  </Placemark>
 
     
   </Document>
