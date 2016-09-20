@@ -6,7 +6,8 @@
     { 
         "type": "Feature",
         "properties": { 
-            "Strip_ID": 6, "LAS_File": "L2-1-M01-S$-C1_s.las", "Task_Num": "3", "Mission_ID": "M01", "Shape_Leng": 371.500391 
+            "Strip_ID": 6, "LAS_File": "L2-1-M01-S$-C1_s.las", "Task_Num": "3", "Mission_ID": "M01", "Shape_Leng": 371.500391,
+            "color": "blue" 
             },
             "geometry": { 
                 "type": "LineString", 
