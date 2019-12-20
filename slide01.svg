@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="160mm"
+   height="90mm"
+   viewBox="0 0 160 90"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="slide01.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient981">
+      <stop
+         style="stop-color:#f69301;stop-opacity:1;"
+         offset="0"
+         id="stop977" />
+      <stop
+         style="stop-color:#f69301;stop-opacity:0;"
+         offset="1"
+         id="stop979" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient981"
+       id="linearGradient983"
+       x1="25.315546"
+       y1="224.14693"
+       x2="134.5957"
+       y2="224.14693"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="183.67735"
+     inkscape:cy="208.31029"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-207)">
+    <rect
+       style="opacity:0;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#e80000;stroke-width:8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect839"
+       width="151.94643"
+       height="83.154762"
+       x="4.5357141"
+       y="210.82143" />
+    <rect
+       style="opacity:0;fill:#f69d01;fill-opacity:1;fill-rule:evenodd;stroke:#f69301;stroke-width:8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect853"
+       width="37.986607"
+       height="26.269344"
+       x="23.056549"
+       y="227.83035" />
+    <rect
+       style="opacity:0;fill:#f69d01;fill-opacity:1;fill-rule:evenodd;stroke:#f69301;stroke-width:8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect863"
+       width="25.324406"
+       height="30.049107"
+       x="85.61161"
+       y="222.16071" />
+    <rect
+       style="opacity:0;fill:#f69d01;fill-opacity:1;fill-rule:evenodd;stroke:#f69301;stroke-width:8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect865"
+       width="24.722431"
+       height="24.856066"
+       x="32.60688"
+       y="218.95729" />
+    <rect
+       style="opacity:1;fill:#001e00;fill-opacity:0;fill-rule:evenodd;stroke:#f69301;stroke-width:1.03378236;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect869"
+       width="159.95355"
+       height="89.991821"
+       x="0.39486721"
+       y="207.24754" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f69d01;fill-opacity:1;stroke:#f69301;stroke-width:0.265;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;"
+       x="24.757441"
+       y="227.0744"
+       id="text916"><tspan
+         sodipodi:role="line"
+         id="tspan914"
+         x="24.757441"
+         y="227.0744"
+         style="stroke-width:0.265;stroke:#f69301;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill:#f69d01;fill-opacity:1;">digitize Geospatial in</tspan><tspan
+         sodipodi:role="line"
+         x="24.757441"
+         y="240.30356"
+         style="stroke-width:0.265;stroke:#f69301;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;fill:#f69d01;fill-opacity:1;"
+         id="tspan918" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f69d01;fill-opacity:1;stroke:#f69301;stroke-width:0.26458332;stroke-opacity:1;"
+       x="34.017853"
+       y="245.97321"
+       id="text922"><tspan
+         sodipodi:role="line"
+         id="tspan920"
+         x="34.017853"
+         y="245.97321"
+         style="stroke-width:0.26458332;stroke:#f69301;stroke-opacity:1;fill:#f69d01;fill-opacity:1;">తెలుగు</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f69d01;fill-opacity:1;stroke:#f69301;stroke-width:0.26458332;stroke-opacity:1;"
+       x="98.462799"
+       y="245.59521"
+       id="text926"><tspan
+         sodipodi:role="line"
+         id="tspan924"
+         x="98.462799"
+         y="245.59521"
+         style="stroke-width:0.26458332;stroke:#f69301;stroke-opacity:1;fill:#f69d01;fill-opacity:1;">हिन्दी</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f69d01;fill-opacity:1;stroke:#f69301;stroke-width:0.26458332;stroke-opacity:1;"
+       x="27.403275"
+       y="264.30505"
+       id="text930"><tspan
+         sodipodi:role="line"
+         id="tspan928"
+         x="27.403275"
+         y="264.30505"
+         style="stroke-width:0.26458332;stroke:#f69301;stroke-opacity:1;fill:#f69d01;fill-opacity:1;">മലയാളം</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f69d01;fill-opacity:1;stroke:#f69301;stroke-width:0.26458332;stroke-opacity:1;"
+       x="93.171127"
+       y="265.81696"
+       id="text934"><tspan
+         sodipodi:role="line"
+         id="tspan932"
+         x="93.171127"
+         y="265.81696"
+         style="stroke-width:0.26458332;stroke:#f69301;stroke-opacity:1;fill:#f69d01;fill-opacity:1;">தமிழ்</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="35.907742"
+       y="283.95981"
+       id="text987"><tspan
+         sodipodi:role="line"
+         id="tspan985"
+         x="35.907742"
+         y="293.6153"
+         style="stroke-width:0.26458332" /></text>
+  </g>
+</svg>
