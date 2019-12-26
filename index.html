@@ -7,32 +7,69 @@
 
 <html>
 <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74257275-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-74257275-2');
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
         .responsive {
             max-width: 100%;
+            height: auto;
+        }
+
+        .video-background {
+            width: 100%;
             height: auto;
         }
     </style>
 </head>
 <body style="color:#f69d01; background-color:black;">
-    <img src="slide00.svg" alt="e2a" class="responsive">
-    <img src="slide01.png" alt="e2a" class="responsive">
-    <img src="slide02.png" alt="e2a" class="responsive">
-    <img src="slide03.png" alt="e2a" class="responsive">
-    <img src="slide04.png" alt="e2a" class="responsive">
-    
+        
+    <div>
+        <video autoplay loop class="video-background" muted plays-inline>
+            <source src="slide00.mp4" type="video/mp4" >
+        </video>
+    </div>
+    <div>
+        <img src="slide00.svg" alt="e2a" class="responsive" style="width:100%; height: auto">
+    </div>
+    <div>
+        <img src="slide01.png" alt="e2a" class="responsive" style="width:100%; height: auto">
+    </div>
+    <div>
+        <img src="slide02.png" alt="e2a" class="responsive" style="width:100%; height: auto">
+    </div>
+    <div>
+        <img src="slide03.png" alt="e2a" class="responsive" style="width:100%; height: auto">
+    </div>
+    <div>
+        <img src="slide04.png" alt="e2a" class="responsive" style="width:100%; height: auto">
+    </div>
+
     <hr>
     <!-- break-->
-    <p style="font-size:7vw;">
+    <!--<p style="font-size:7vw;">
         lidar.lionn is a minimalistic software surprisingly simple for your team!. contact us to know more...
     </p>
     <p style="font-size:10vw;">
-        lidarlionn@1074vectors.com +91 81378 50656
-    </p>
+        know@lidar.lionn.com +91 81378 50656
+    </p>-->
     <hr>
     <!-- break-->
-    <img src="slide06.png" alt="e2a" class="responsive">
+    <div>
+        <img src="slide06.png" alt="e2a" class="responsive" style="width:100%; height: auto">
+    </div>
 
 
 </body>
