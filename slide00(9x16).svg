@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="slide00(9x16).svg"
+   inkscape:version="1.0beta1 (08a003b, 2019-11-10)"
+   id="svg1386"
+   version="1.1"
+   viewBox="0 0 183.88541 283.63334"
+   height="1072"
+   width="695">
+  <defs
+     id="defs1380">
+    <inkscape:path-effect
+       simplify_just_coalesce="false"
+       simplify_individual_paths="false"
+       helper_size="0"
+       smooth_angles="360"
+       threshold="0.00108696"
+       steps="1"
+       is_visible="true"
+       id="path-effect877"
+       effect="simplify" />
+    <inkscape:path-effect
+       simplify_just_coalesce="false"
+       simplify_individual_paths="false"
+       helper_size="0"
+       smooth_angles="360"
+       threshold="0.5"
+       steps="1"
+       is_visible="true"
+       id="path-effect1999"
+       effect="simplify" />
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient1985">
+      <stop
+         id="stop1983"
+         offset="0"
+         style="stop-color:#ba9d01;stop-opacity:1;" />
+    </linearGradient>
+    <inkscape:path-effect
+       simplify_just_coalesce="false"
+       simplify_individual_paths="false"
+       helper_size="0"
+       smooth_angles="360"
+       threshold="0.5"
+       steps="1"
+       is_visible="true"
+       id="path-effect1981"
+       effect="simplify" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1003"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="1013.1079"
+     inkscape:cx="339.59673"
+     inkscape:zoom="1.4142136"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata1383">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       transform="scale(0.9792928,1.0211451)"
+       id="text1957"
+       y="54.726475"
+       x="8.0227442"
+       style="font-size:9.28466px;line-height:1.25;font-family:sans-serif;fill:#f69d01;fill-opacity:1;stroke-width:0.435218"
+       xml:space="preserve"><tspan
+         style="fill:#f69d01;fill-opacity:1;stroke-width:0.435218"
+         y="54.726475"
+         x="8.0227442"
+         id="tspan1955"
+         sodipodi:role="line">enabling millions for <tspan
+   id="tspan1973"
+   style="font-weight:bold">geospatial</tspan> jobs</tspan><tspan
+         id="tspan1959"
+         style="fill:#f69d01;fill-opacity:1;stroke-width:0.435218"
+         y="66.332298"
+         x="8.0227442"
+         sodipodi:role="line" /></text>
+    <text
+       id="text1963"
+       y="137.88846"
+       x="10.63798"
+       style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;fill:#f69d01;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="fill:#f69d01;fill-opacity:1;stroke-width:0.264583"
+         y="137.88846"
+         x="10.63798"
+         id="tspan1961"
+         sodipodi:role="line">a <tspan
+   id="tspan1975"
+   style="font-weight:bold">billion$</tspan> market </tspan></text>
+    <text
+       id="text1967"
+       y="145.48578"
+       x="65.595726"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="fill:#f69d01;fill-opacity:1;stroke-width:0.264583"
+         y="145.48578"
+         x="65.595726"
+         id="tspan1965"
+         sodipodi:role="line">is now accessible to</tspan></text>
+    <text
+       id="text1971"
+       y="155.88014"
+       x="17.932928"
+       style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;fill:#f69d01;fill-opacity:1;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="fill:#f69d01;fill-opacity:1;stroke-width:0.264583"
+         y="155.88014"
+         x="17.932928"
+         id="tspan1969"
+         sodipodi:role="line"><tspan
+   id="tspan1977"
+   style="font-weight:bold">millions</tspan> of undergraduates</tspan></text>
+    <path
+       transform="matrix(1.0087234,0,0,1,-0.80067417,1.0229233)"
+       inkscape:original-d="M 0.79374999,282.31041 H 183.09166"
+       inkscape:path-effect="#path-effect877"
+       inkscape:connector-curvature="0"
+       id="path875"
+       d="m 0.79374999,282.31041 c 60.76597001,0 121.53194001,0 182.29791001,0"
+       style="fill:none;stroke:#f69d01;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

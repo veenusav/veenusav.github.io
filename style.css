@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.video-background {
+    width: 100%;
+    height: auto;
+}
+p.indended {
+    margin-left: 10%;
+}
+.slide-large-device{display: block;}
+.slide-small-device{display: none;}
+@media only screen and (max-width: 695px) {
+    .slide-large-device{display: none;}
+    .slide-small-device{display: block;}
+}
